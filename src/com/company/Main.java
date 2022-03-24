@@ -6,7 +6,7 @@ public class Main {
         int[] arr = new int[100];
 
      fgfgf
-
+sds
         for(int i = 0;i<100;i++){
             System.out.println("arr[" + i + "] " + arr[i]);
         }
